@@ -1,5 +1,4 @@
 #include <dht.h>    // dht lib
-
 dht DHT;    // initialise dht sensor
 
 #define DHT11_PIN 7

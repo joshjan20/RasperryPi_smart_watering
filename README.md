@@ -22,6 +22,7 @@ This project involves building a smart plant watering system using a combination
 
 ---
 
+
 ## Project Overview:
 
 This smart plant watering system is designed to help monitor the soil moisture of your plants and notify you if watering is required. It is particularly helpful for users who may forget to water their plants or for those who want to remotely manage their plants through cloud-based controls.
